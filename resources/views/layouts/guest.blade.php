@@ -131,9 +131,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-8 ml-auto mr-auto">
-
+                        {{-- contents --}}
                         @yield('content')
-
+                        {{-- End of contents --}}
                     </div>
                 </div>
             </div>
